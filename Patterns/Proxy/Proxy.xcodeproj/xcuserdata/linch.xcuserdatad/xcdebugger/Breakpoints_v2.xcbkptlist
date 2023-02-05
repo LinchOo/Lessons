@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1569F0B7-A1F5-4E3C-A690-86318ED1B248"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9A257EB-02FA-470B-8EF3-4577CFD962D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Proxy/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "loadImage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A9A257EB-02FA-470B-8EF3-4577CFD962D8 - 289db89cd3794df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Proxy.DetailViewController.loadImage() -&gt; ()"
+                  moduleName = "Proxy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linch/Desktop/xCode/lessons/Patterns/Proxy/Proxy/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "A9A257EB-02FA-470B-8EF3-4577CFD962D8 - 289db89cd3794df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Proxy.DetailViewController.loadImage() -&gt; ()"
+                  moduleName = "Proxy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linch/Desktop/xCode/lessons/Patterns/Proxy/Proxy/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "A9A257EB-02FA-470B-8EF3-4577CFD962D8 - 289db89cd3794df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Proxy.DetailViewController.loadImage() -&gt; ()"
+                  moduleName = "Proxy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linch/Desktop/xCode/lessons/Patterns/Proxy/Proxy/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

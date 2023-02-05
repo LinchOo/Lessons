@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='lesson_2 String'/>
+        <page name='lesson_14 Property2'/>
+        <page name='lesson_1 Data Types'/>
+        <page name='lesson_3 Arrays'/>
+        <page name='lesson_4 Tuples'/>
+        <page name='lesson_5 Dict'/>
+        <page name='lesson_6 Optional data Types'/>
+        <page name='lesson_8 Swith Case'/>
+        <page name='lesson_9 func'/>
+        <page name='lesson_10 Lockers'/>
+        <page name='lesson_11 Enum'/>
+        <page name='lesson_13 Property'/>
+        <page name='lesson_12 Class and Structure'/>
+        <page name='lesson_15 SubScript '/>
+        <page name='lesson_16 OOP Poly Inc'/>
+        <page name='lesson_17 ARC Strong Weak link'/>
+        <page name='lesson_18 Optional Links'/>
+        <page name='lesson_20 Extenssions'/>
+        <page name='lesson_19 Type Casting'/>
+        <page name='lesson_21 Generic'/>
+        <page name='lesson_23 Delegate '/>
+        <page name='lesson_22 Protocol!'/>
+    </pages>
+</playground>

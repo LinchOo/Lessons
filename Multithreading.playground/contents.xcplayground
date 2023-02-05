@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1)Threads'/>
+        <page name='2)Qos'/>
+        <page name='3)Sync_Mutex'/>
+        <page name='4)Trobles vs Threads &amp; RecursiveLock'/>
+        <page name='5)Condition'/>
+        <page name='6)ReedWriteLock'/>
+        <page name='7)GCD queues'/>
+        <page name='8)GDC Sync Async'/>
+        <page name='11)GDC Semaphore'/>
+        <page name='12)GDC DispatchGroup'/>
+        <page name='13)GDC Barrier'/>
+        <page name='15)Operation_OperationQueue'/>
+        <page name='16)BlockOperation_WaitUntil'/>
+    </pages>
+</playground>
