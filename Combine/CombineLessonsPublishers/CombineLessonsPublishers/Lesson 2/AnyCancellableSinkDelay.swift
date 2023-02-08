@@ -44,6 +44,7 @@ struct AnyCancellableSinkDelayView: View {
         }
     }
 }
+
 class AnyCancellableSinkDelayViewModel: ObservableObject {
     @Published var data = ""
     @Published var status = ""
